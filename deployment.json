@@ -1,0 +1,5 @@
+{
+  "template-file-path": "ec2-stack.yaml",
+  "parameters": {},
+  "tags": {}
+}
